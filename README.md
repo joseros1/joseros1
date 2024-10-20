@@ -20,7 +20,7 @@
 | Lenguajes               | Librerías y frameworks  | Otros                   |
 |-------------------------|-------------------------|-------------------------|
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)]([https://es.python.org/](https://www.python.org/))|
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)|
 
   
 

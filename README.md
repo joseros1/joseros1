@@ -17,7 +17,7 @@
 
 # Tecnologías que me gustaría aprender
 
-| Lenguajes               | Librerías y frameworks  | Otros                   |
+| **Lenguajes**               | **Librerías y frameworks**  | **Otros**                   |
 |-------------------------|-------------------------|-------------------------|
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/default.asp)|[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/tools/libraries/creating-libraries)| [![VS Code](https://img.shields.io/badge/VisualStudioCode-323330?style=for-the-badge&logo=visualstudiocode&logoColor=F7DF1E)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)|[![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) |[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)

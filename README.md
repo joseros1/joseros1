@@ -15,7 +15,7 @@
 - [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
 - [Digitalización aplicada al sistema productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
 
-#Preferencias Tecnológicas
+# Preferencias Tecnológicas
 
 1. 💯Full-stack
 2. 📁Bases de datos

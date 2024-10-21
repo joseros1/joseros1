@@ -37,9 +37,9 @@
 # **Contacto**
 
 [![Email](https://img.shields.io/badge/e‑mail-D14836.svg)](13765531@alu.murciaeduca.es)
-[![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/joseros1)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg)](https://www.instagram.com/joserosp25)
 [![LInkedIn](https://img.shields.io/badge/linkedin-0077B5.svg)](https://es.linkedin.com/in/jose-manuel-ros-pamies-8031b4207)
+[![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/joseros1)
 
 ---
 

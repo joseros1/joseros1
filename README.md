@@ -6,14 +6,14 @@
 
 # **Mis asignaturas** 📚
 
-1. Sistemas informáticos
-2. Programación
+1. [Sistemas informáticos](https://ead.murciaeduca.es/course/view.php?id=11655)
+2. [Programación](https://ead.murciaeduca.es/course/view.php?id=11657)
 3. [Bases de datos](https://ead.murciaeduca.es/course/view.php?id=11656)
-4. Lenguajes de marcas y sistemas
-5. Entornos de desarrollo
-6. Itinerario Personal de la Empleabilidad
-7. Inglés profesional
-8. Digitalización aplicada al sistema productivo
+4. [Lenguajes de marcas y sistemas](https://ead.murciaeduca.es/course/view.php?id=11625)
+5. [Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11658)
+6. [Itinerario Personal de la Empleabilidad](https://ead.murciaeduca.es/course/view.php?id=12025)
+7. [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
+8. [Digitalización aplicada al sistema productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
 
 # Tecnologías que me gustaría aprender
 

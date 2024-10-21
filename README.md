@@ -6,14 +6,21 @@
 
 # **Mis asignaturas** 📚
 
-1. [Sistemas informáticos](https://ead.murciaeduca.es/course/view.php?id=11655)
-2. [Programación](https://ead.murciaeduca.es/course/view.php?id=11657)
-3. [Bases de datos](https://ead.murciaeduca.es/course/view.php?id=11656)
-4. [Lenguajes de marcas y sistemas](https://ead.murciaeduca.es/course/view.php?id=11625)
-5. [Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11658)
-6. [Itinerario Personal de la Empleabilidad](https://ead.murciaeduca.es/course/view.php?id=12025)
-7. [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
-8. [Digitalización aplicada al sistema productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
+- [Sistemas informáticos](https://ead.murciaeduca.es/course/view.php?id=11655)
+- [Programación](https://ead.murciaeduca.es/course/view.php?id=11657)
+- [Bases de datos](https://ead.murciaeduca.es/course/view.php?id=11656)
+- [Lenguajes de marcas y sistemas](https://ead.murciaeduca.es/course/view.php?id=11625)
+- [Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11658)
+- [Itinerario Personal de la Empleabilidad](https://ead.murciaeduca.es/course/view.php?id=12025)
+- [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
+- [Digitalización aplicada al sistema productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
+
+#Preferencias Tecnológicas
+
+1. 💯Full-stack
+2. 📁Bases de datos
+3. 🪪Ciberseguridad
+4. 🎨Diseño de software
 
 # Tecnologías que me gustaría aprender
 
